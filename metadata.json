@@ -1,0 +1,7 @@
+{
+  "name": "RISE Physical Therapy 2",
+  "description": "A high-fidelity, modern physical therapy clinic website featuring an AI triage agent.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
